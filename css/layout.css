@@ -25,11 +25,11 @@
 /* Posititoning Classes */
 
 .milk_text + section{
-  width: 64%;
+  width: 65%;
   float: left;
 }
 
 section + section{
-  width: 31%;
+  width: 32%;
   float: right;
 }
