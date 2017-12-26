@@ -29,6 +29,11 @@
   float: left;
 }
 
+.milk_text + section:nth-child(2n){
+  width: 33%;
+  float: right;
+}
+
 section + section{
   width: 33%;
 }
