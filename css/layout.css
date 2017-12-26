@@ -30,5 +30,5 @@
 
 section + section{
   width: 33%;
-  display: inline;
+  display: block
 }
