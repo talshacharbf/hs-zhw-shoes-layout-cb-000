@@ -26,9 +26,9 @@
 
 .milk_text + section{
   width: 66%;
-  float: left;
+  float: right;
 }
 
 section + section{
-  width: 20%;
+  width: 33%;
 }
