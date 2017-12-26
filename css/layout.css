@@ -24,12 +24,12 @@
 
 /* Posititoning Classes */
 
-.milk_text + section{
+#archive{
   width: 66%;
   float: left;
 }
 
-.milk_text:nth-child(2n){
+.milk_text + sectio:nth-child(2n){
   width: 33%;
   float: right;
 }
