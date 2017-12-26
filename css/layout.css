@@ -24,4 +24,8 @@
 
 /* Posititoning Classes */
 
+.milk_text + section{
+  width: 33%
+}
+
 
