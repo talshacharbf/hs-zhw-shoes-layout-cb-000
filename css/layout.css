@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 
-.milk_text + section{
+.column-1{
   width: 66%;
   float: left;
 }
