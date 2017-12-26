@@ -29,9 +29,7 @@
   float: left;
 }
 
-section + section:first-child{
+section + section{
   width: 33%;
   float: right;
 }
-
-
