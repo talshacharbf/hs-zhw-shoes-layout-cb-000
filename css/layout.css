@@ -29,6 +29,15 @@
     margin-bottom: 2%;
   }
 
+.newrow:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    height: 0;
+    line-height: 0;
+  }
+
 .column-1{
   width: 66%;
   float: left;
@@ -41,5 +50,5 @@
 
 .column-3{
   width: 32%;
-  float: right;;
+  float: right;
 }
