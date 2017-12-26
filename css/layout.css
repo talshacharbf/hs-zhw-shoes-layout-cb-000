@@ -28,6 +28,6 @@
   width: 66%
 }
 
-.milk_text + section + section{
-  width: 66%
+section + section{
+  width: 33%
 }
