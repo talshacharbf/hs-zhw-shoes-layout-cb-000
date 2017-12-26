@@ -29,7 +29,7 @@
   float: left;
 }
 
-.milk text + section:nth-child(2n)
+.milk text + section{
   width: 33%;
   float: right;
 }
