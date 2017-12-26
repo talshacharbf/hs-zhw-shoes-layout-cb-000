@@ -29,7 +29,7 @@
   float: left;
 }
 
-.milk_text + section + section{
+section + section{
   width: 33%;
   float: right;
 }
