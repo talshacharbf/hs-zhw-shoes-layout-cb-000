@@ -30,5 +30,5 @@
 
 section + section{
   width: 33%;
-  display: block
+  float: left
 }
