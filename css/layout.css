@@ -51,6 +51,7 @@
 .column-3{
   width: 32%;
   margin-left: 0;
+  float: left;
 }
 
 .column-4{
