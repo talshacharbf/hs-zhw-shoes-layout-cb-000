@@ -33,8 +33,3 @@
   width: 33%;
   float: right;
 }
-
-section + section{
-  width: 33%;
-  float: left;
-}
